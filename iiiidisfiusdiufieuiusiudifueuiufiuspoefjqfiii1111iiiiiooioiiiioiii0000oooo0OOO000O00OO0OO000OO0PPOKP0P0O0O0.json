@@ -139,19 +139,6 @@
       "name": "新浪|✨️✨️点播",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
-    },
-    {
-      "name": "欧乐🪜",
-      "type": 3,
-      "api": "csp_Olevod",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ole.js",
-      "ext2": "https://ghp.xptvhelper.link/https://gist.githubusercontent.com/occupy-pluto/ce9bf8248a15acb87e6b55e382fb8e4b/raw/ole.js"
-    },
-    {
-      "name": "小盘盘 | PAN",
-      "type": 3,
-      "api": "csp_xpanpan",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/xpanpan.js"
     }
   ]
 }
